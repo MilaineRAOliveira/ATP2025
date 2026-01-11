@@ -1,0 +1,6 @@
+[clinic_dados_simulacao.py](https://github.com/user-attachments/files/24555641/clinic_dados_simulacao.py)
+[clinic_login.py](https://github.com/user-attachments/files/24555642/clinic_login.py)
+[faux_clinic.py](https://github.com/user-attachments/files/24555646/faux_clinic.py)
+[simula_graf_test_final.py](https://github.com/user-attachments/files/24555645/simula_graf_test_final.py)
+[clinicApp.py](https://github.com/user-attachments/files/24555644/clinicApp.py)
+[clinic_registo.py](https://github.com/user-attachments/files/24555643/clinic_registo.py)
